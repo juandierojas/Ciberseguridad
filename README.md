@@ -1,2 +1,0 @@
-# Ciberseguridad
-Ensayo 1
